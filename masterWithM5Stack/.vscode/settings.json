@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "algorithm": "cpp",
+    "*.tcc": "cpp",
+    "string": "cpp",
+    "initializer_list": "cpp",
+    "iosfwd": "cpp",
+    "limits": "cpp"
+  }
+}

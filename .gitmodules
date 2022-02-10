@@ -1,0 +1,12 @@
+[submodule "shared/arduino-string"]
+	path = shared/arduino-string
+	url = https://github.com/asukiaaa/arduino-string.git
+[submodule "shared/arduino-wire"]
+	path = shared/arduino-wire
+	url = https://github.com/asukiaaa/arduino-wire.git
+[submodule "shared/I2cControlPanel_asukiaaa"]
+	path = shared/I2cControlPanel_asukiaaa
+	url = https://github.com/asukiaaa/I2cControlPanel_asukiaaa.git
+[submodule "shared/ST7032_asukiaaa"]
+	path = shared/ST7032_asukiaaa
+	url = https://github.com/asukiaaa/ST7032_asukiaaa.git
